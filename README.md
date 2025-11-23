@@ -445,6 +445,7 @@ Tags:
 <!-- links -->
 [obsidian]: https://obsidian.md
 [dataview]: https://github.com/blacksmithgu/obsidian-dataview
+[trajecta]: https://trajecta.app
 
 ---
 
