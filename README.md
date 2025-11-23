@@ -443,3 +443,7 @@ Tags:
 <!-- links -->
 [obsidian]: https://obsidian.md
 [dataview]: https://github.com/blacksmithgu/obsidian-dataview
+
+---
+
+[![Trajecta](https://img.shields.io/badge/Supported%20by-Trajecta-blue?style=flat-square)](https://trajecta.app)
